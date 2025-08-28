@@ -1,7 +1,5 @@
 ### 👋 Hey!
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=bhuvna_prabhu.visitor-badge)](https://github.com/pegasusflyhigh)
-[![Twitter Follow](https://img.shields.io/twitter/follow/BhuvnaPrabhu?style=social)](https://twitter.com/BhuvnaPrabhu)
 
 <!---
 - 👋 Hi, I’m @pegasusflyhigh
